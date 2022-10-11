@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"music_player.h": "c",
+			"stdlib.h": "c"
+		}
+	}
+}
